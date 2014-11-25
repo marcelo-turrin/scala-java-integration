@@ -137,6 +137,8 @@
 					<reportsDirectory>${project.build.directory}/surefire-reports</reportsDirectory>
 					<junitxml>.</junitxml>
 					<filereports>WDF TestSuite.txt</filereports>
+					<suites>ar.com.turrin.scala.MyAppTest</suites>
+					<jUnitClasses>ar.com.turrin.scala.AppTest</jUnitClasses>
 				</configuration>
 				<executions>
 					<execution>
