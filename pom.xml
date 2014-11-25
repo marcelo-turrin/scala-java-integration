@@ -122,7 +122,6 @@
 						<configuration>
 							<sources>
 								<source>src/test/scala</source>
-								<source>src/test/java</source>
 							</sources>
 						</configuration>
 					</execution>
